@@ -1,6 +1,6 @@
-# Project Title
+# R_PI
 
-One Paragraph of project description goes here
+Getting started with AWS for Raspberry Pi.
 
 ## Getting Started
 
